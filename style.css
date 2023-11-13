@@ -1,0 +1,48 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+.container{
+  background-image:radial-gradient(#023f11,#c2df7d8c);
+  height:100vh;
+  width:100vw;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.box{
+  padding:20px;
+  border:10px;
+  background :rgb(155, 128, 128);
+  border-radius:20px;
+}
+button{
+  width:8vw;
+  height:5vh;
+  border-radius:12px;
+  border-color:#0a0a0a;
+  padding:1px; margin:2px;border-width:5px;
+}
+
+.b-1{
+  width:17vw;
+
+}
+
+input{
+  height:6vh;width:auto;
+  margin:5px;border-width:5px;border-radius:10px;font-weight: bold;border-color:#0a0a0a;
+}
+
+.word{
+  text-align: center;
+  color:rgb(80, 52, 52);
+
+
+}
+
+
+
+
